@@ -31,7 +31,7 @@ Thiết kế CPU RISC-V [RV32I, pipeline X tầng / single-cycle] bằng Verilog
 
 ## Công cụ
 
-- ModelSim [phiên bản]
+- ModelSim [13.1]
 - g++ (để biên dịch chương trình tạo đáp án)
 
 ## Tác giả
