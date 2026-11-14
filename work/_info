@@ -1,0 +1,159 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ADMIN\Music\risc v
+valu
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 D`Vi8UlB75z4nGOzmL:;71
+Z3 I>d`LAJ9d=e91iYo1eg5zT1
+Z4 VLiW9YNc6Em[`aMbYziZmC3
+Z5 !s105 design_sv_unit
+S1
+Z6 dC:\Users\user\Music\risc v
+Z7 w1794536500
+Z8 8design.sv
+Z9 Fdesign.sv
+L0 12
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s108 1794536521.953000
+Z12 !s107 design.sv|
+Z13 !s90 -reportprogress|300|design.sv|
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder
+R1
+Z14 !s100 OWelM86AK8JSHP4lI^fCG2
+Z15 IJN`SRPEa5U9eE<dJNIJfS2
+Z16 VEdaZT5egczDC3G3khR]P_3
+R5
+S1
+R6
+R7
+R8
+R9
+L0 32
+R10
+r1
+31
+R11
+R12
+R13
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vhehe
+R1
+Z17 Ic:`LG?;1KR;dKL4<J<b2P1
+Z18 V[>OXz8D@UV3R>8WKNGUZO2
+R5
+S1
+R6
+R7
+R8
+R9
+L0 76
+R10
+r1
+31
+R11
+R12
+R13
+o-O0
+!i10b 1
+Z19 !s100 9A?gKi9YBM@@Y`Uc2SGNa0
+!s85 0
+!s101 -O0
+vimmcheck
+R1
+Z20 !s100 9lTWon=@HAYQ9?55c1`5g0
+Z21 IieD1;RhK=;L0AAG@L>G?b1
+Z22 VoeJDAcQm6_PM;JQhe=?561
+R5
+S1
+R6
+R7
+R8
+R9
+L0 52
+R10
+r1
+31
+R11
+R12
+R13
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vittm
+R1
+Z23 !s100 7^7B7^i]8bC933[ZEOecS0
+Z24 I[9Vh;9CAeojVHRMNkziBW2
+Z25 V:f7zBE^;Im>MA[S[TcR_`1
+R5
+S1
+R6
+R7
+R8
+R9
+L0 1
+R10
+r1
+31
+R11
+R12
+R13
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vtb
+R1
+!i10b 1
+Z26 !s100 <3]25KiY3KzR3@]<Ej@3i1
+Z27 IZiH27i`[Ue;kIB^54IMMG2
+Z28 VV@Xn<HnSRM[I5c1?BH]3a3
+Z29 !s105 checkpc_sv_unit
+S1
+R6
+Z30 w1794534126
+Z31 8checkpc.sv
+Z32 Fcheckpc.sv
+L0 2
+R10
+r1
+!s85 0
+31
+!s108 1794536522.125000
+!s107 checkpc.sv|
+Z33 !s90 -reportprogress|300|checkpc.sv|
+!s101 -O0
+o-O0
+vtest
+R1
+Z34 I?E;D23a`OdFJZ?Bo1hV8?3
+Z35 Vk<3<[f=78GX=_HO53D;7>3
+Z36 !s105 testbench_sv_unit
+S1
+Z37 dC:\Users\ADMIN\Music\risc v
+Z38 w1791558183
+Z39 8testbench.sv
+Z40 Ftestbench.sv
+L0 14
+R10
+r1
+31
+Z41 !s108 1791859965.419000
+Z42 !s107 testbench.sv|
+Z43 !s90 -reportprogress|300|testbench.sv|
+o-O0
+Z44 !s100 `Og>:7RngIE@G4;]S[V961
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,11 @@
+cd "C:/Users/user/Music/risc v"
+vlib work
+vlog design.sv
+vlog checkpc.sv
+vsim tb
+
+vlog design.sv
+vlog checkpc.sv
+log -r /*
+restart -f
+run -all
