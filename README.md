@@ -26,7 +26,7 @@ Thiết kế CPU RISC-V [RV32I, pipeline X tầng / single-cycle] bằng Verilog
    g++ model/ittm.cpp -o ittm
    ./ittm
    ```
-2. Mô phỏng bằng ModelSim: mở ModelSim, `cd` vào thư mục gốc project rồi chạy script trong `sim/` sử dụng file 'modelmsim' dán từng lệnh chạy nó trong script.
+2. Mô phỏng bằng ModelSim: mở ModelSim, `cd` vào thư mục gốc project rồi chạy script trong `sim/` sử dụng file `modelmsim` dán từng lệnh chạy nó trong script.
 3. Xem kết quả PASS/FAIL trong cửa sổ Transcript.
 
 ## Công cụ
