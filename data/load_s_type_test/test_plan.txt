@@ -1,0 +1,6 @@
+test chức năng cơ bản của lệnh 
++ test 1: 
+test các chức năng đọc hiển thị của từng lệnh load
++ test 2:
+chứa cả s type và bộ lệnh load nhằm hiển thị được những gì đã thêm vào hay chỉnh sủa bằng s type 
+test từng lệnh s type sau đó in ra bằng lệnh load so sánh đáp án 

@@ -1,0 +1,5 @@
+replace on current 23 in rtl 
+$readmemh("data/load_s_type_test/test1/ram_init.txt", mem);
+replace on current 20 - 21 in testbench 
+$readmemh("data/load_s_type_test/test1/answers.txt", ittr);
+$readmemh("data/load_s_type_test/test1/exp_pc.txt", pcvalue); 

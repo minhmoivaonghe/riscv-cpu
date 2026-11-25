@@ -1,11 +1,12 @@
 cd "C:/Users/user/Music/risc v"
 vlib work
-vlog design.sv
-vlog checkpc.sv
+vlog rtl/design.sv
+vlog tb/checkpc.sv
 vsim tb
 
-vlog design.sv
-vlog checkpc.sv
+quit -sim
+vlog rtl/design.sv
+vlog tb/checkpc.sv
+vsim tb
 log -r /*
-restart -f
 run -all
